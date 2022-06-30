@@ -7,7 +7,6 @@ Usuando o react pude colocar em prática conhecimentos em typescript e redux.
 
 Segue links:
 
-- [GitHub Pages](https://emersonsep.github.io/react-redux-api-clinica/) 
 
 
 Ferramentas:
