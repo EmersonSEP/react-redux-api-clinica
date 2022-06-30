@@ -1,20 +1,21 @@
 # React
 
-Foi criado um formulário de uma clinica ficticia, através dele, foi consumida uma API que construi com meus colegas da GAMA (),
+Criei um formulário e através dele, foi consumida uma API que construi com meus colegas da GAMA (https://github.com/EmersonSEP/Projeto_API_Clinica),
 
 Usuando o react pude colocar em prática conhecimentos em typescript e redux.
 
 
 Segue links:
 
-- [GitHub Pages](https://pages.github.com/) 
+- [GitHub Pages](https://emersonsep.github.io/react-redux-api-clinica/) 
 
 
 Ferramentas:
-React: https://pt-br.reactjs.org/
-Vite: https://vitejs.dev/
-Bootstrap: https://getbootstrap.com/docs/5.0/getting-started/introduction/
-Typescript: https://www.typescriptlang.org/
+
+React: https://pt-br.reactjs.org/ .
+Vite: https://vitejs.dev/ .
+Bootstrap: https://getbootstrap.com/docs/5.0/getting-started/introduction/ .
+Typescript: https://www.typescriptlang.org/ .
 
 
 
