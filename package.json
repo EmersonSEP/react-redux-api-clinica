@@ -1,6 +1,5 @@
 {
-  "name": "
-  react-redux-api-clinica",
+  "name": "app-aula-api",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -30,6 +29,9 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+
+  "homepage": "https://github.com/EmersonSEP/react-redux-api-clinica",
+
   "eslintConfig": {
     "extends": [
       "react-app",

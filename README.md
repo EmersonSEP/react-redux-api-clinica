@@ -13,8 +13,11 @@ Segue links:
 Ferramentas:
 
 -React: https://pt-br.reactjs.org/ 
+
 -Vite: https://vitejs.dev/ 
+
 -Bootstrap: https://getbootstrap.com/docs/5.0/getting-started/introduction/ 
+
 -Typescript: https://www.typescriptlang.org/ 
 
 
